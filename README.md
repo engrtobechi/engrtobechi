@@ -8,7 +8,10 @@
 
 - 📊 In my spare time, I enjoy visualizing data and creating informative graphs and charts. It's a great way to communicate complex information in an easily digestible way.
 
-<!---
-🐦 You can also find me on Twitter at @tobechiohaeri, where I share my latest data analysis projects and insights.
+- 🐦 You can also find me on Twitter at @tobechiohaeri, where I share my latest data analysis projects and insights.
 Thanks for stopping by, and I look forward to connecting with you!
+
+<!---
+engrtobechi/engrtobechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 --->
